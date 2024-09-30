@@ -12,15 +12,17 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncellikle Porjeyi clonelayın.
 
-````bash
+```bash
 git clone https://github.com/Veysibeyaz/kodluyoruzilkrepo.git
 
+```
+
 ## Usage
+
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```bash
 cd kodluyoruzilkrepo
 code .
-
-````
+```
